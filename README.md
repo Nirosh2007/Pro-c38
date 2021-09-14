@@ -1,2 +1,1 @@
-# Pro-c38
-This is the mario runner game, which is project 38.
+# PRO-C37-INFINITE-RUNNER-GAME
